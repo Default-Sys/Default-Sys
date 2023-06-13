@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi! 👋
+ 
+ I am a technology professional with in knowledge in 
+ HTML5, J5, CSS3 , C , C++ , C# , Node.js , Python, React, GitHub, Lua , MySQL, 
+ Process Automation, Business Analysis, IT Management, Information Security.
+ 
+ A future especialist, let's grow up!
+ 
+ Tecnologies:
 
-<!--
-**Default-Sys/Default-Sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,git,github,python,react,mongodb,lua,nodejs,vue,sequelize,unreal,postgres,docker,bootstrap,typescript)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Default-Sys&show_icons=true&theme=shadow_green)
+<br>
+
+
+
+
+<a href="https://www.linkedin.com/in/william-barcelos-144a96218/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
