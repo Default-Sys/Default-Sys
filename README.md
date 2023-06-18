@@ -13,7 +13,7 @@
 
   
   
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Default-Sys&show_icons=true&theme=shadow_green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Default-Sys&show_icons=true&theme=shadow_green)
 <br>
 
 
