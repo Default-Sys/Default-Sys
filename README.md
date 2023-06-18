@@ -16,7 +16,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Default-Sys&show_icons=true&theme=ocean_dark)
 <br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Default-Sys&layout=compact)
 
 
 <a href="https://www.linkedin.com/in/william-barcelos-144a96218/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
