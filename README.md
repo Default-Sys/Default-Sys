@@ -1,10 +1,9 @@
 ### Hi! 👋
  
  I am a Developer Full-Stack with knowledge in 
- HTML5, J5, CSS3 , C , C++ , C# , Node.js , Python, React, GitHub, Lua , MySQL, 
- Process Automation, Business Analysis, IT Management, Information Security.
+ HTML5, J5, CSS3 , Node.js , Typescript, MySQL, Business Analysis, IT Management, Information Security.
  
- A future especialist, let's grow up!
+Let's grow up!
  
  Tecnologies:
 
