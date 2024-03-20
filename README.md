@@ -9,7 +9,7 @@
  Tecnologies:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,mongodb,nodejs,postgres,docker,bootstrap,typescript,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,nodejs,postgres,docker,bootstrap,typescript,mysql)](https://skillicons.dev)
 
   
   
